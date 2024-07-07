@@ -1,0 +1,17 @@
+Roll-No:0901CD221020
+Name:Bhoomi Garg
+Phone number:8918283748
+Branch:CSD
+Roll-No:0901AM221036
+Name:GAYAN VYAS
+Phone number:8817151938
+Branch:AIML
+Roll-No:0901AM221036
+Name:Gyan Vays
+Phone number:9988776262
+Branch:CSD
+Roll-No:0901AD221020
+Name:Prakrati Jain
+Phone number:8817151938
+Branch:CSD
+-----------------------------
